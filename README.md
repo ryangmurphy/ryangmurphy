@@ -1,13 +1,12 @@
-Yo ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ryan Murphy
+Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ryan Murphy
 ===================================================================================================================================
 
-Full Stack Developer
+Full Stack Developer / Software Developer
 --------------------
 
 * 🌍  I'm based in Halifax, NS
 * 🖥️  See my portfolio at [Portfolio](http://ryangmurphy.com)
 * ✉️  You can contact me at [ryan@ryangmurphy.com](mailto:ryan@ryangmurphy.com)
-* 🧠  I'm learning Electron, Next.js, TypeScript
 
 ### Skills
 
