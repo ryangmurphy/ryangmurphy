@@ -5,9 +5,7 @@
     🍁 Nova Scotia, Canada
     🎓 Graduate Certificate in Full Stack Development @ NSCC
     💼 BComm @ Saint Mary's University
-    💻 Web Development / Analytics
-    📖 Building Computers / Photo + Video Editing
-    🏅 Volleyball / Hockey / Music / Reading
+    💻 IT / Web Development
 </pre>
 <br><br>
 
