@@ -4,6 +4,3 @@
 - 💼 BComm @ Saint Mary's University
 - 💻 IT / Web Development
 
-
-[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryangmurphy/)
-
